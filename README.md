@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlinaAlexandraVizireanu
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML/CSS/Java Script
+- 🌱 I’m currently learning HTML/CSS/JavaScript
 - 💞️ I’m looking to collaborate on different web projects.
 - 📫 How to reach me vizireanualina15@yahoo.com
 
